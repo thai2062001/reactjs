@@ -25,15 +25,15 @@ export default function Introduce(props: PaymentIntroduce) {
                 </div>
             </div>
             <div className="introduce-text">
-           <div className="ul-wrapper">
-           <ul>
-                    <li>{introduce_1}</li>
-                    <li>{introduce_2}</li>
-                    <li>{introduce_3}</li>
-                    <li>{introduce_4}</li>
-                    <span style={{fontSize:'18px',fontWeight:'600',marginTop:'10px'}}>{modify_plan}</span>
-                </ul>
-           </div>
+                <div className="ul-wrapper">
+                    <ul>
+                        <li>{introduce_1}</li>
+                        <li>{introduce_2}</li>
+                        <li>{introduce_3}</li>
+                        <li>{introduce_4}</li>
+                        <span style={{ fontSize: '18px', fontWeight: '600', marginTop: '10px' }}>{modify_plan}</span>
+                    </ul>
+                </div>
 
             </div>
         </div>
